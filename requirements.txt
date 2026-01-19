@@ -1,9 +1,9 @@
---extra-index-url https://download.pytorch.org/whl/cpu
 streamlit==1.33.0
-numpy
+torch==2.2.2
+numpy==1.26.4
 pandas
 scikit-learn
 joblib
-torch==2.2.2
+
 
 
