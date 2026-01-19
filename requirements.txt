@@ -1,9 +1,10 @@
 streamlit==1.33.0
-torch==2.2.2
+torch==2.5.1
 numpy==1.26.4
 pandas
 scikit-learn
 joblib
+
 
 
 
